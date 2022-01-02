@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reverdoor/static/css/main.a5d2b59d.css",
+    "main.js": "/reverdoor/static/js/main.87bdcd6b.js",
+    "index.html": "/reverdoor/index.html",
+    "main.a5d2b59d.css.map": "/reverdoor/static/css/main.a5d2b59d.css.map",
+    "main.87bdcd6b.js.map": "/reverdoor/static/js/main.87bdcd6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d2b59d.css",
+    "static/js/main.87bdcd6b.js"
+  ]
+}

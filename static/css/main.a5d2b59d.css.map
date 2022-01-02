@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a5d2b59d.css","mappings":"AAAA,KAKE,qBAAsB,CADtB,gBAAiB,CAEjB,aAAc,CALd,iBAAkB,CAElB,WAIF","sources":["index.css"],"sourcesContent":[".App {\r\n  text-align: center;\r\n  \r\n  width: 100vw;\r\n  min-height: 100vh;\r\n  background-color: grey;\r\n  overflow: auto;\r\n}"],"names":[],"sourceRoot":""}
